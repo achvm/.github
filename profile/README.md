@@ -1,6 +1,3 @@
-> [!WARNING]  
-> Repository moved to https://github.com/gomzyakov/achievements
-
 ## Welcome to Github Profile Achievements :wave:
 
 This community was created in order to tell Github users in a simple way how to get certain badges.
